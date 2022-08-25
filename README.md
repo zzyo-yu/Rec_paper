@@ -11,6 +11,7 @@
   | Deep Crossing | SIGKDD     | 2016 | 《Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features》 |
   | NCF           |            |      | 《Neural Collaborative Filtering》                           |
   | GBDT+LR       |            |      | 《Practial Lessons from Predicting Clicks on Ads at Facebook》 |
+  | NFM | SIGIR | 2017 | 《Neural Factorization Machines for Sparse Predictive Analytics》 |
   | PNN           | ICDM       | 2016 | 《Product-based Neural Networks for User Response Prediction》 |
   | WDL           | RecSys     | 2016 | 《Wide & Deep Learning for Recommender Systems》             |
   | DeepFM        | IJCAI      | 2017 | 《DeepFM A Factorization-Machine based Neural Network for CTR Prediction》 |
