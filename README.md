@@ -1,6 +1,39 @@
 # Rec_paper
 
 # paper list 
+- Base
+  - GNN
+  
+    
+  
+  - KGE
+  
+    | Model   | Conference | Date | Paper                                                        |
+    | ------- | ---------- | ---- | ------------------------------------------------------------ |
+    | TransE  | NeurIPS    | 2013 | 《Translating Embeddings for Modeling Multi-relational Data》 |
+    | TransH  | AAAI       | 2014 | 《Knowledge Graph Embedding by Translating on Hyperplanes》  |
+    | TransR  | AAAI       | 2015 | 《Learning Entity and Relation Embeddings for Knowledge Graph Completion》 |
+    | TransD  | ACL        | 2015 | 《Knowledge Graph Embedding via Dynamic Mapping Matrix》     |
+    | STransE | NAACL-HLT  | 2016 | 《STransE: a novel embedding model of entities and relationships in knowledge bases》 |
+  
+  - Embedding
+  
+    | Model    | Conference | Date | Paper |
+    | -------- | ---------- | ---- | ----- |
+    | Word2Vec |            |      |       |
+  
+  - SSL
+  
+    
+  
+  - CV
+  
+    
+  
+  - NLP
+  
+    
+  
 - Context-aware Recommendation
 
   | Model         | Conference | Date | Paper                                                        |
@@ -8,6 +41,7 @@
   | LR            | WWW        | 2007 | 《Predicting Clicks Estimating the Click-Through Rate for New Ads》 |
   | FM            | ICDM       | 2010 | 《Factorization Machines》                                   |
   | FFM           | RecSys     | 2016 | 《Field-aware Factorization Machines for CTR Prediction》    |
+  | AutoRec | WWW | 2015 | 《AutoRec: Autoencoders Meet Collaborative Filtering》 |
   | Deep Crossing | SIGKDD     | 2016 | 《Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features》 |
   | NCF           |            |      | 《Neural Collaborative Filtering》                           |
   | GBDT+LR       |            |      | 《Practial Lessons from Predicting Clicks on Ads at Facebook》 |
@@ -55,6 +89,7 @@
   | LightGCN | SIGIR      | 2020 | 《LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation》 |
   | SGL      | SIGIR      | 2021 | 《Self-supervised Graph Learning for Recommendation》        |
   | HMLET    | WSDM       | 2022 | 《Linear, or Non-Linear, That is the Question!》             |
+  | SimGCL   |            |      |                                                              |
   
 - Survey
   
