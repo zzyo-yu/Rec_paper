@@ -102,10 +102,17 @@
   
 - Survey
   
-  | Paper                                                        | Conference | Date |
-  | ------------------------------------------------------------ | ---------- | ---- |
-  | 《A Survey on Neural Recommendation-From Collaborative Filtering to Content and Context Enriched Recommendation-TKDE》 | TKDE       | 2021 |
-  | 《A Survey on Session-based Recommender Systems》            |            | 2021 |
+  | Paper                                                        | Conference                                                | Date |
+  | ------------------------------------------------------------ | --------------------------------------------------------- | ---- |
+  | 《A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources》 |                                                           | 2020 |
+  | 《A Survey on Neural Recommendation-From Collaborative Filtering to Content and Context Enriched Recommendation-TKDE》 | TKDE                                                      | 2021 |
+  | 《A Survey on Session-based Recommender Systems》            |                                                           | 2021 |
+  | 《Self-Supervised Representation Learning: Introduction, Advances and Challenges》 |                                                           | 2021 |
+  | 《Deep Learning for Click-Through Rate Estimation》          |                                                           | 2021 |
+  | 《Text Data Augmentation for Deep Learning》                 | JBD                                                       | 2021 |
+  | 《Contrastive self-supervised learning: review, progress, challenges and future research directions》 | International Journal of Multimedia Information Retrieval | 2022 |
+  | 《Negative Sampling for Contrastive Representation Learning: A Review》 |                                                           | 2022 |
+  | 《Text Transformations in Contrastive Self-Supervised Learning: A Review》 |                                                           | 2022 |
   
 
 - General Recommendation
