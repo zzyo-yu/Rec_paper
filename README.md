@@ -65,8 +65,10 @@
   | MIND      |            | 2019 | 《Multi-Interest Network with Dynamic Routing for Recommendation at Tmall》 |
   | BST       |            | 2019 | 《Behavior Sequence Transformer for E-commerce Recommendation in Alibaba》 |
   | BERT4Rec  | CIKM       | 2019 | 《BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer》 |
+  | SRGNN     | AAAI       | 2019 | 《Session-Based Recommendation with Graph Neural Networks》  |
   | S3Rec     | CIKM       | 2020 | 《S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization》 |
   | LightSANs | SIGIR      | 2021 | 《Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation》 |
+  | CORE      | SIGIR      | 2022 | 《CORE: Simple and Effective Session-based Recommendation within Consistent Representation Space》 |
 
 - Knowledge-based Recommendation
 
@@ -83,19 +85,36 @@
 
 - GNN-based Recommendation
   
-  | Model    | Conference | Date | Paper                                                        |
-  | -------- | ---------- | ---- | ------------------------------------------------------------ |
-  | NGCF     | SIGIR      | 2019 | 《Neural Graph Collaborative Filtering》                     |
-  | LightGCN | SIGIR      | 2020 | 《LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation》 |
-  | SGL      | SIGIR      | 2021 | 《Self-supervised Graph Learning for Recommendation》        |
-  | HMLET    | WSDM       | 2022 | 《Linear, or Non-Linear, That is the Question!》             |
-  | SimGCL   |            |      |                                                              |
+  | Model     | Conference | Date | Paper                                                        |
+  | --------- | ---------- | ---- | ------------------------------------------------------------ |
+  | NGCF      | SIGIR      | 2019 | 《Neural Graph Collaborative Filtering》                     |
+  | mult-GCCF |            | 2020 | 《Multi-Graph Convolution Collaborative  Filtering》         |
+  | DGCF      | SIGIR      | 2020 | 《Disentangled Graph Collaborative Filtering》               |
+  | LightGCN  | SIGIR      | 2020 | 《LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation》 |
+  | SGL       | SIGIR      | 2021 | 《Self-supervised Graph Learning for Recommendation》        |
+  | HMLET     | WSDM       | 2022 | 《Linear, or Non-Linear, That is the Question!》             |
+  | SimGCL    | SIGIR      | 2022 | 《Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation》 |
+  | XSimGCL   |            | 2022 | 《XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation》 |
+  | HCCF      | SIGIR      | 2022 | 《Hypergraph Contrastive Collaborative Filtering》           |
+  | SVD-GCN   | CIKM       | 2022 | 《SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation》 |
+  | SHT       | KDD        | 2022 | 《Self-Supervised Hypergraph Transformer for Recommender Systems》 |
+  | LightGCL  | ICLR       | 2023 | 《LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation》 |
   
 - Survey
   
   | Paper                                                        | Conference | Date |
   | ------------------------------------------------------------ | ---------- | ---- |
   | 《A Survey on Neural Recommendation-From Collaborative Filtering to Content and Context Enriched Recommendation-TKDE》 | TKDE       | 2021 |
-  
+  | 《A Survey on Session-based Recommender Systems》            |            | 2021 |
   
 
+- General Recommendation
+
+  | Model    | Conference | Date | Paper                                                        |
+  | -------- | ---------- | ---- | ------------------------------------------------------------ |
+  | BPR      | UAI        | 2009 | 《BPR: Bayesian Personalized Ranking from Implicit Feedback》 |
+  | NeuMF    | WWW        | 2017 | 《Neural Collaborative Filtering》                           |
+  | ADT      | WSDM       | 2021 | 《Denoising Implicit Feedback for Recommendation》           |
+  | DirectAU | KDD        | 2022 | 《Towards Representation Alignment and Uniformity in Collaborative Filtering》 |
+
+  
